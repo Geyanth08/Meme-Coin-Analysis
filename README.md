@@ -1,1 +1,1 @@
-"# Meme-Coin-Analysis" 
+# Meme-Coin-Analysis
